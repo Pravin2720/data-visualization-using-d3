@@ -1,0 +1,5 @@
+VAST-Challenge-2022
+backend/venv
+venv
+.DS_STORE
+backend/__pycache__
